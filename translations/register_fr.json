@@ -1,0 +1,12 @@
+{
+  "site_title" : "Formulaires traduits",
+  "nav_login_link" : "Connexion",
+  "nav_register_link" : "Créer un compte",
+  "nav_switch_link" : "Changer de langue",
+  "register_username_label": "Identifiant",
+  "register_email_label": "Email",
+  "register_password_label": "Mot de passe",
+  "register_confirm_password_label": "Confirmation du mot de passe",
+  "register_submit_button" : "Inscription"
+
+}
